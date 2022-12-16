@@ -1,0 +1,7 @@
+Mainly I have created 4 classes
+
+
+URL.java-Entity class
+ProjectApplication.java-Main class
+UrlController.java-The controller class where i have created 4 apis
+UrlRepository.java-An interface which extends JPA repository to retrieve the required data
